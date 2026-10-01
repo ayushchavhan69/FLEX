@@ -1,0 +1,6 @@
+{
+  "name": "RENTAL - Premium Car Rental",
+  "description": "Exclusive modern and classic luxury car rental service featuring high-performance sports cars and exotic SUVs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
